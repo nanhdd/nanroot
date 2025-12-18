@@ -2,18 +2,18 @@
 
 一键脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/nezhahd/nanroot/main/root.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/nanhdd/nanroot/main/root.sh)
 
 ```
 一键脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/nezhahd/nanroot/main/enable-root-login.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/nanhdd/nanroot/main/enable-root-login.sh)
 
 ```
 ### 获取VPS 信息
 
 一键脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/nezhahd/nanroot/main/systeminfo.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/nanhdd/nanroot/main/systeminfo.sh)
 
 ```
